@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @masterakp
-- 👀 I’m interested in GIS softwares
-- 🌱 I’m currently learning Geomatics
-- 💞️ I’m looking to collaborate on QGIS
+- Amateur Java Developer that dreams in Java and has a good grasp on web services development and complex application development. I am excited to begin my career by joining a company composed of driven professionals who value creative problem solving and strive to revolutionize software industry.
 - 📫 bdeanant.official@gmail.com
 
 <!---
